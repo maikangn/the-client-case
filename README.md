@@ -1,4 +1,6 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je, zoals altijd, in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+![OBA](https://user-images.githubusercontent.com/1061632/191293310-64f64c1f-8b5a-42a3-8181-d0fb240ebc56.png)
+
+De Stichting Openbare Bibliotheek Amsterdam (OBA) is een culturele instelling, die zich ten doel stelt het vrije verkeer van informatie in de Amsterdamse samenleving te bevorderen. In dit project is er een redesign van het Mijn OBA platform gerealiseerd.
 
 # Titel
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
