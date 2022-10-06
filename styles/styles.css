@@ -249,39 +249,39 @@
   }
   
   #img01 {
-    background-image: url("/assets/atomic-habits.png");
+    background-image: url('/assets/atomic-habits.png');
   }
   
   #img02 {
-    background-image: url("/assets/it-ends-with-us.png");
+    background-image: url('/assets/it-ends-with-us.png');
   }
   
   #img03 {
-    background-image: url("/assets/dat-stemmetje-in-je-hoofd.png");
+    background-image: url('/assets/dat-stemmetje-in-je-hoofd.png');
   }
   
   #img04 {
-    background-image: url("/assets/de-alchemist.png");
+    background-image: url('/assets/de-alchemist.png');
   }
   
   #img05 {
-    background-image: url("/assets/the-power-of-now.png");
+    background-image: url('/assets/the-power-of-now.png');
   }
   
   #img06 {
-    background-image: url("/assets/daar-waar-de-rivierkreeften-zingen.png");
+    background-image: url('/assets/daar-waar-de-rivierkreeften-zingen.png');
   }
 
   #img07 {
-    background-image: url("/assets/subtle-art-of-not-giving-a-fk.png");
+    background-image: url('/assets/subtle-art-of-not-giving-a-fk.png');
   }
 
   #img08 {
-    background-image: url("/assets/fairy-tale.png");
+    background-image: url('/assets/fairy-tale.png');
   }
 
   #img09 {
-    background-image: url("/assets/to-kill-a-mockingbird.png");
+    background-image: url('/assets/to-kill-a-mockingbird.png');
   }
   
   .checked{
