@@ -249,7 +249,7 @@
   }
   
   #img01 {
-    background-image: url(/assets/atomic-habits.png);
+    background-image: url("assets/atomic-habits.png");
   }
   
   #img02 {
