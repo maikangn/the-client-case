@@ -249,11 +249,11 @@
   }
   
   #img01 {
-    background-image: url("assets/atomic-habits.png");
+    background-image: url('../assets/atomic-habits.png');
   }
   
   #img02 {
-    background-image: url(/assets/it-ends-with-us.png);
+    background-image: url('../assets/it-ends-with-us.png');
   }
   
   #img03 {
