@@ -26,6 +26,11 @@ Programmeertalen:
 - HTML
 - CSS
 
+Gebruikte tools:
+- Visual Studio Code
+- GitHub
+- iPad Pro voor digitale ontwerpschetsen
+
 ## Bronnen
 https://css-tricks.com/
 
