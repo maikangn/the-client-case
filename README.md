@@ -2,9 +2,6 @@
 
 De Stichting Openbare Bibliotheek Amsterdam (OBA) is een culturele instelling, die zich ten doel stelt het vrije verkeer van informatie in de Amsterdamse samenleving te bevorderen. In dit project is er een redesign van het Mijn OBA platform gerealiseerd.
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
-
 ## Inhoudsopgave
 
   * [Beschrijving](#beschrijving)
@@ -13,16 +10,24 @@ De Stichting Openbare Bibliotheek Amsterdam (OBA) is een culturele instelling, d
   * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+
+User story #12: 
+> Als OBA lid wil ik op de website persoonlijke boekentips krijgen, zodat ik gestimuleerd wordt meer te lezen.
+
+![oba site](https://user-images.githubusercontent.com/112856292/197879347-90823230-8b07-4781-a5d7-7dc256e1699a.png)
+
+Op deze pagina zijn persoonlijke boekentips te zien op basis van de uitleengeschiedenis. Elk boek is voorzien van een sterrenrating. Ook is er een optie om het boek toe te voegen aan de leeslijst.
+
+Live-url: https://maikangn.github.io/the-client-case/
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
-
-
+Programmeertalen:
+- HTML
+- CSS
 
 ## Bronnen
+https://css-tricks.com/
 
 ## Licentie
 
