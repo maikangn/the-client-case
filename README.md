@@ -1,6 +1,6 @@
 ![OBA](https://user-images.githubusercontent.com/1061632/191293310-64f64c1f-8b5a-42a3-8181-d0fb240ebc56.png)
 
-De Stichting Openbare Bibliotheek Amsterdam (OBA) is een culturele instelling, die zich ten doel stelt het vrije verkeer van informatie in de Amsterdamse samenleving te bevorderen. In dit project is er een redesign van het Mijn OBA platform gerealiseerd.
+In dit project is er een redesign van het Mijn OBA platform gerealiseerd.
 
 ## Inhoudsopgave
 
@@ -16,9 +16,10 @@ User story #12:
 
 ![oba site](https://user-images.githubusercontent.com/112856292/197879347-90823230-8b07-4781-a5d7-7dc256e1699a.png)
 
-Op deze pagina zijn persoonlijke boekentips te zien op basis van de uitleengeschiedenis. Elk boek is voorzien van een sterrenrating. Ook is er een optie om het boek toe te voegen aan de leeslijst.
+Op deze pagina zijn persoonlijke boekentips te zien op basis van de uitleengeschiedenis. Elk boek is voorzien van een sterrenrating. Ook is er een optie om het boek toe te voegen aan de leeslijst (zonder functionaliteit).
 
-Live-url: https://maikangn.github.io/the-client-case/
+* Live-url: https://maikangn.github.io/the-client-case/
+* Er is ook een mobile version beschikbaar
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
